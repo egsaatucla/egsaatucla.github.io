@@ -1,2 +1,2 @@
-# Static eGSA Website
-This branch is the static page we'll keep live until the new version is finished.
+# Ruby on Rails eGSA website
+This branch will be the repo for the ruby-on-rails version of the eGSA site
