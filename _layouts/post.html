@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{{ site.header-img }}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.description %}
+                    <h2 class="subheading">{{ page.description }}</h2>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="circle" style="background-image: url('{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}img/officers/blank.jpg{% endif %}')"></div>
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
