@@ -1,24 +1,13 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+#eGSA @ UCLA Website
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
-###[View Live Demo &rarr;](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/)
+## Adding New Officers
+I tried to make it easier for future adding and removing of current officers -- but it's a little hacked because of Jekyll on GitHub being primarily targeted at blogs. So each officer is a "post" in the `_posts' directory. These are the steps to adding a new officer:
 
-## Before You Begin
+1. Add a file to the `posts' directory with a format like `2015-01-01-officer_name.md'
+2. Add the appropriate keywords to the file (see other officer posts for examples)
 
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
+Then the officer page will automatically display the new officer and a page will be generated for that officer.
 
-It should look like this:
-`baseurl: ""`
-
-## What's Included
-
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to keep the Apache 2.0 license intact, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
-
-## Support
-
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+## Marking Old Officers as Inactive
+To move officers out of the active display, you only need to go into the officer's post page and change `active' to `false' and they will automatically only be displayed in the "Past Officers" section.
