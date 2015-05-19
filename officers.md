@@ -22,8 +22,8 @@ title: "Officers"
 {% for post in site.posts %}
 {% unless post.active %}
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">{{ post.title }}
-        </h2>
+        <h3 class="post-title">{{ post.title }} - {{ post.description }}
+        </h3>
     </a>
 {% endunless %}
 {% endfor %}
