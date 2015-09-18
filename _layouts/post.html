@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{{ site.header-img }}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.name }}</h1>
+                    {% if page.position %}
+                    <h2 class="subheading">{{ page.position }}</h2>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="circle" style="background-image: url('{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}img/officers/blank.jpg{% endif %}')"></div>
+                {% if page.hometown %}
+                    <div><b class="subheading">Hometown</b>: {{ page.hometown }}</div>
+                {% endif %}
+                {% if page.alma_mater %}
+                    <div><b class="subheading">Alma Mater</b>: {{ page.alma_mater }}</div>
+                {% endif %}
+                {% if page.department %}
+                    <div><b class="subheading">Department</b>: {{ page.department }}</div>
+                {% endif %}
+                {% if page.advisor %}
+                    <div><b class="subheading">Advisor</b>: {{ page.advisor }}</div>
+                {% endif %}
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>

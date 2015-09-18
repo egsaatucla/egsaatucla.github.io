@@ -59,6 +59,7 @@ hr.small {
 // Navigation
 
 .navbar-custom {
+	background: white;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -156,8 +157,8 @@ hr.small {
 // Header
 
 .intro-header {
-	background-color: @gray; 
-	background: no-repeat center center; 
+	background: no-repeat center center;
+	background-color: @gray;
 	background-attachment: scroll;
 	.background-cover;
 	// NOTE: Background images are set within the HTML using inline CSS!
@@ -180,7 +181,7 @@ hr.small {
 		}
 		.subheading {
 			font-size: 24px;
-			line-height: 1.1;
+			line-height: 1.1,
 			display: block;
 			.sans-serif;
 			font-weight: 300;
@@ -404,9 +405,13 @@ form .row:first-child .floating-label-form-group {
 			font-size: 14px;
 			font-weight: 800;
 			letter-spacing: 1px;
-			padding: 15px 25px;
+			padding: 10px 5px;
 			background-color: white;
 			border-radius: 0;
+			@media only screen and (min-width: 768px) {
+				font-size: 14px;
+				padding: 15px 25px;
+			}
 		}
 
 		> a:hover,
