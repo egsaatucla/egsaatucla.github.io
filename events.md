@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Events"
-description: "Things to do with eGSA."
+description: "Comming up events in eGSA."
 header-img: "img/royce2.jpg"
 ---
 
@@ -10,7 +10,7 @@ header-img: "img/royce2.jpg"
 
 #Staying updated with eGSA events
 * <b>Weekly emails</b>: you should already receive them when are enrolled via Courseweb. If not, please contact secretary@bruinegsa.org.
-* <a href="https://www.facebook.com/UCLA.eGSA?fref=ts" >eGSA Facebook page</a>
+* <a href="https://www.facebook.com/UCLA.eGSA?fref=ts" ><b>eGSA Facebook page</b></a>
 
 
 #Regularly scheduled events
