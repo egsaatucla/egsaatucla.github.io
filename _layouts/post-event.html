@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{{ site.header-img }}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.name }}</h1>
+                    {% if page.event-date %}
+                    <h2 class="subheading">{{ page.event-date }}</h2>
+                    {% endif %}
+		    {% if page.event-time %}
+                    <h3 class="subheading">{{ page.event-time}}</h3>
+                    {% endif %}
+		    {% if page.event-description %}
+                    <h3 class="subheading">{{ page.event-description}}</h3>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>

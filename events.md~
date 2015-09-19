@@ -9,7 +9,7 @@ header-img: "img/royce2.jpg"
 {% for event in site.categories.events %}
 <li>
 	<a href="{{ event.url | prepend: site.baseurl }}">
-    	<span class="post-title text-left"><b>{{ event.event-date }}, {{ event.name }}</b>. {{event.event-description}}</span>
+    	<span class="post-title text-left">{{ event.event-date }}, <b>{{ event.name }}</b>. {{event.event-description}}</span>
 	</a>
 </li>
 {% endfor %}
