@@ -44,3 +44,7 @@ Temporary Items
 
 # jeykll compiled site
 _site/
+
+
+# the save of doc
+*~
