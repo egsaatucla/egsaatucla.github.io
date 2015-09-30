@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Events"
-description: "Comming up events in eGSA."
+title: "Newsletter"
+description: "Weekly eGSA newsletter --- Stay updated, join upcomming events."
 header-img: "img/royce2.jpg"
 ---
 #Upcoming Events
 <ul>
-{% for event in site.categories.events %}
+{% for newsletter in site.categories.newsletters %}
 <li>
-	<a href="{{ event.url | prepend: site.baseurl }}">
-    	<span class="post-title text-left">{{ event.event-date }}, <b>{{ event.name }}</b>. {{event.event-description}}</span>
+	<a href="{{ newsletter.url | prepend: site.baseurl }}">
+    	<span class="post-title text-left"><b>{{ newsletter.event-date }}, {{ newsletter.name }}</b>. {{newsletter.newsletter-description}}</span>
 	</a>
 </li>
 {% endfor %}
