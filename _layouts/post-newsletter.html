@@ -9,11 +9,14 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
                     <h1>{{ page.name }}</h1>
-                    {% if page.event-date %}
-                    <h2 class="subheading">{{ page.event-date }}</h2>
+                    {% if page.newsletter-date %}
+                    <h2 class="subheading">{{ page.newsletter-date }}</h2>
                     {% endif %}
-		    {% if page.event-time %}
-                    <h2 class="subheading">{{ page.event-time}}</h2>
+		    {% if page.newsletter-time %}
+                    <h3 class="subheading">{{ page.newsletter-time}}</h3>
+                    {% endif %}
+		    {% if page.newsletter-description %}
+                    <h3 class="subheading">{{ page.newsletter-description}}</h3>
                     {% endif %}
                 </div>
             </div>
