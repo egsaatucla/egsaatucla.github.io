@@ -7,7 +7,7 @@ newsletter-description:
 ---
 
 
-<b>Welcome to week 2 eGrads! </b>
+<b>Welcome to week 2! </b>
 
 <b>Latest eGSA events:</b>
 
