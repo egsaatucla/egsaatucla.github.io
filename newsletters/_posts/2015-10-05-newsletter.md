@@ -37,25 +37,15 @@ X	    Morgan Stanley Quantitative Finance Info and N/w Session (Thu. 10/8, RSVP 
 
 =====================================================================
 
-If you have any questions or suggestions for eGSA, email us at <a href="mailto:secretary@bruinegsa.org">secretary@bruinegsa.org</a>
+If you have any questions or suggestions for eGSA, email us at <ahref="mailto:secretary@bruinegsa.org">secretary@bruinegsa.org</a>
 
 =====================================================================
 
-<b>Get eGSA news faster:</b>
+<b>I. Scavengineer Hunt + Ice-cream Social</b>
 
-"Like" our Facebook page: <a href='http://www.facebook.com/UCLA.eGSA' target="_blank">http://www.facebook.com/UCLA.eGSA</a>
+<b>Thursday, October 08, 5 - 7pm</b>
 
-Go to our cool website: <a href='http://bruinegsa.org/index.html' target="_blank">http://bruinegsa.org/index.html</a>
-
-Download our eGSA app: <a href='http://itunes.apple.com/ua/app/ucla-egsa/id532393751?mt=8' target="_blank">http://itunes.apple.com/ua/app/ucla-egsa/id532393751?mt=8</a>
-
-=====================================================================
-
-<b>I. Scavengineer Hunt + Ice-cream Social
-
-Thursday, October 08, 5 - 7pm
-
-UCLA South Campus</b>
+<b>UCLA South Campus</b>
 
 The first Scavengineer hunt is here! Are you game?
 
@@ -67,59 +57,59 @@ Plus we have gift cards to give away to the best two teams. You get to cool off 
 
 =====================================================================
 
-<b>II. NSF Fellowship Workshop
+<b>II. NSF Fellowship Workshop</b>
 
-Tuesday, October 06, 12 - 1pm
+<b>Tuesday, October 06, 12 - 1pm</b>
 
-Engineering IV 38-138</b>
+<b>Engineering IV 38-138</b>
 
 eGSA is hosting our annual NSF GRFP Workshop for those interested in applying. This fellowship is available to first- and second-year PhD students and offers three years of full funding, among other benefits. The workshop will be led by previous NSF GRFP finalists and will focus on giving guidance on writing, answering questions, and providing tips on how to build a successful application package. Lunch will be provided. One-on-one essay proofreading sessions will be held in the weeks following.
 
 <a href='https://docs.google.com/forms/d/1s8iA56YNREWnZ-0I9uUjFnqH4XrYGc3b-NXkKkecisE/viewform?usp=send_form' target="_blank">RSVP HERE!</a>
 
-Questions? Contact Luke: luke.shaw@bruinegsa.org
+Questions? <ahref="mailto:luke.shaw@bruinegsa.org">Contact Luke here.</a>
 
 =====================================================================
 
-<b>III. Friday Night Hangouts: Drinks and Cornhole
+<b>III. Friday Night Hangouts: Drinks and Cornhole</b>
 
-Friday, October 09, 6 - 8pm
+<b>Friday, October 09, 6 - 8pm</b>
 
-Engineering IV Patio</b>
+<b>Engineering IV Patio</b>
 
 For our second Friday Night Hangout, we’ll kick back and relax with some wine, root beer floats (non-alcoholic), and a corn hole tournament! 
 
 <a href='https://docs.google.com/a/bruinegsa.org/forms/d/1RIbLcHC7mOjtGhoX47-HoMFGvfNkVvH5qCbZCI_YCT4/edit' target="_blank">RSVP HERE!</a>
 
-Questions? Contact Harsha: harsha.kittur@bruinegsa.org
+Questions? <ahref="mailto:harsha.kittur@bruinegsa.org">Contact Harsha here.</a> 
 
 =====================================================================
 
-<b>IV. SWE Grad/Undergraduate Panel
+<b>IV. SWE Grad/Undergraduate Panel</b>
 
-Tuesday, October 13, 6 - 7pm
+<b>Tuesday, October 13, 6 - 7pm</b>
 
-Where: TBD</b>
+<b>Where: TBD</b>
 
 Are you looking for opportunities to:
 
-    Mentor undergraduates interested in graduate school?
+   Mentor undergraduates interested in graduate school?
 
-    Train undergraduates to work in your lab?
+   Train undergraduates to work in your lab?
 
-    Mentor undergraduates interested in applying for jobs?
+   Mentor undergraduates interested in applying for jobs?
 
-    Find students that need tutoring?
+   Find students that need tutoring?
 
 Come join us for a Graduate Student panel!! Meet other eGrads and Undergraduates and enjoy free food!
 
 ====================================================================
 
-<b>V. PhD Movie 2 Screening
+<b>V. PhD Movie 2 Screening</b>
 
-Tuesday, October 20, 5:30 - 8pm
+<b>Tuesday, October 20, 5:30 - 8pm</b>
 
-Ackerman Grand Ballroom</b>
+<b>Ackerman Grand Ballroom</b>
 
 Come join us for a free screening of the new movie "Piled Higher and Deeper: Still in Grad School" at UCLA!! Filmed at nearby CalTech, this movie takes a humorous look at the world of Academia, as seen by grad students.
 
@@ -131,28 +121,28 @@ This event is organized by the UCLA Graduate Society of Women Engineers (GradSWE
 
 =====================================================================
 
-<b>VI. Hiking with GradSWE: The Old LA Zoo
+<b>VI. Hiking with GradSWE: The Old LA Zoo</b>
 
-Saturday, October 31, 9am - 3pm
+<b>Saturday, October 31, 9am - 3pm</b>
 
-Old LA Zoo, Griffith Park</b>
+<b>Old LA Zoo, Griffith Park</b>
   
 Join GradSWE for this easy, fun Halloween hike at the Old LA Zoo! The hike is a 4 mile loop with 500 ft elevation gain. The hike contains beautiful scenery and a great view of LA, along with a chance to explore the Old LA Zoo (including old lion enclosures and more)!
  
 As this hike takes place on Halloween, costumes are highly recommended (and animal-themed costumes are strongly encouraged)!
  
-As this is a short hike, we plan to go out to lunch following the hike. To read about the specifics about the hike, visit the Modern Hiker entry http://www.modernhiker.com/2012/09/10/hiking-griffith-park-bee-rock-and-the-old-l-a-zoo/?mc_cid=4526c649e9&mc_eid=09d80e48f4 
+As this is a short hike, we plan to go out to lunch following the hike. To read about the specifics about the hike, visit the Modern Hiker entry <a href='http://www.modernhiker.com/2012/09/10/hiking-griffith-park-bee-rock-and-the-old-l-a-zoo/?mc_cid=4526c649e9&mc_eid=09d80e48f4' target="_blank">HERE</a>.
  
 We will carpool to the trailhead. If you can give rides for other people, you will get reimbursed for gas.
 
 <a href='http://gradswe-zoo-hike.eventbrite.com' target="_blank">RSVP TODAY!</a>
 
 =====================================================================
-<b>VII. Fall Science Vendor Expo
+<b>VII. Fall Science Vendor Expo</b>
 
-Wednesday, October 07, 10am - 1:30pm
+<b>Wednesday, October 07, 10am - 1:30pm</b>
 
-California NanoSystems Institute (CNSI)</b>
+<b>California NanoSystems Institute (CNSI)</b>
 
 The Biomedical Engineering Society at UCLA is hosting its Fall Science Vendor Expo on Wednesday, October 7 in CNSI. This event is for undergrad students, grad students, researchers, and professors who want to get the chance to meet with representatives from exclusive biotech companies focused in life science research. You will get to see new products that are on the market and can get samples or place orders for your research lab. The event is free and pre-registration can be done at http://ucla.us2.list-manage2.com/track/click?u=49e06912f7968ded547c6b0ff&id=58e9aaac71&e=7941192948. There will be free food, a raffle, and the chance to network with life science technology vendors, so don't miss out!
 
@@ -160,11 +150,11 @@ Check out the Facebook event page <a href='http://ucla.us2.list-manage1.com/trac
 
 =====================================================================
 
-<b>VIII. Biotech Entrepreneurship Panel
+<b>VIII. Biotech Entrepreneurship Panel</b>
 
-Tuesday, October 06, 6 - 8pm
+<b>Tuesday, October 06, 6 - 8pm</b>
 
-CNSI</b>
+<b>CNSI</b>
 
 Have an idea? Interested in entrepreneurship? Not sure where to start? Stop by the Biotech Entrepreneurship panel to have all your questions answered. Speakers include Dr. Leo Petrossian (CEO of Neural Analytics), Will Wood (IP attorney specializing in Biotech), and Jeff Chen (MD/MBA and founder of CBD Research Institute).
 
@@ -172,11 +162,11 @@ For more information or to RSVP, <a href='https://www.eventbrite.com/e/biotech-e
 
 =====================================================================
 
-<b>IX. The Cheeky Scientist
+<b>IX. The Cheeky Scientist</b>
 
-Tuesday, October 13, 9 - 11am
+<b>Tuesday, October 13, 9 - 11am</b>
 
-CNSI Auditorium</b>
+<b>CNSI Auditorium</b>
 
 Breakfast will be served
 
@@ -191,11 +181,11 @@ About Isaiah Hankel, Ph.D.: Fortune 500 consultant, international speaker and be
 
 =====================================================================
 
-<b>X. Morgan Stanley Quantitative Finance Info and Networking Session
+<b>X. Morgan Stanley Quantitative Finance Info and Networking Session</b>
 
-Thursday, October 08, 5:15pm
+<b>Thursday, October 08, 5:15pm</b>
 
-UCLA Campus Gold Hall, B117</b>
+<b>UCLA Campus Gold Hall, B117</b>
 
 <a href='https://morganstanley.tal.net/vx/lang-en-GB/candidate/postings/557?mc_cid=4526c649e9&mc_eid=09d80e48f4' target="_blank">RSVP HERE!</a>
 
