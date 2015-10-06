@@ -37,7 +37,7 @@ X	    Morgan Stanley Quantitative Finance Info and N/w Session (Thu. 10/8, RSVP 
 
 =====================================================================
 
-If you have any questions or suggestions for eGSA, email us at <ahref="mailto:secretary@bruinegsa.org">secretary@bruinegsa.org</a>
+If you have any questions or suggestions for eGSA, email us at <a href="mailto:secretary@bruinegsa.org">secretary@bruinegsa.org</a>
 
 =====================================================================
 
@@ -67,7 +67,7 @@ eGSA is hosting our annual NSF GRFP Workshop for those interested in applying. T
 
 <a href='https://docs.google.com/forms/d/1s8iA56YNREWnZ-0I9uUjFnqH4XrYGc3b-NXkKkecisE/viewform?usp=send_form' target="_blank">RSVP HERE!</a>
 
-Questions? <ahref="mailto:luke.shaw@bruinegsa.org">Contact Luke here.</a>
+Questions? <a href="mailto:luke.shaw@bruinegsa.org">Contact Luke here.</a>
 
 =====================================================================
 
@@ -81,7 +81,7 @@ For our second Friday Night Hangout, we’ll kick back and relax with some wine,
 
 <a href='https://docs.google.com/a/bruinegsa.org/forms/d/1RIbLcHC7mOjtGhoX47-HoMFGvfNkVvH5qCbZCI_YCT4/edit' target="_blank">RSVP HERE!</a>
 
-Questions? <ahref="mailto:harsha.kittur@bruinegsa.org">Contact Harsha here.</a> 
+Questions? <a href="mailto:harsha.kittur@bruinegsa.org">Contact Harsha here.</a> 
 
 =====================================================================
 
@@ -91,15 +91,7 @@ Questions? <ahref="mailto:harsha.kittur@bruinegsa.org">Contact Harsha here.</a>
 
 <b>Where: TBD</b>
 
-Are you looking for opportunities to:
-
-   Mentor undergraduates interested in graduate school?
-
-   Train undergraduates to work in your lab?
-
-   Mentor undergraduates interested in applying for jobs?
-
-   Find students that need tutoring?
+Are you looking for opportunities to mentor undergraduates interested in graduate school? Train undergraduates to work in your lab? Mentor undergraduates interested in applying for jobs? Find students that need tutoring?
 
 Come join us for a Graduate Student panel!! Meet other eGrads and Undergraduates and enjoy free food!
 
@@ -144,9 +136,7 @@ We will carpool to the trailhead. If you can give rides for other people, you wi
 
 <b>California NanoSystems Institute (CNSI)</b>
 
-The Biomedical Engineering Society at UCLA is hosting its Fall Science Vendor Expo on Wednesday, October 7 in CNSI. This event is for undergrad students, grad students, researchers, and professors who want to get the chance to meet with representatives from exclusive biotech companies focused in life science research. You will get to see new products that are on the market and can get samples or place orders for your research lab. The event is free and pre-registration can be done at http://ucla.us2.list-manage2.com/track/click?u=49e06912f7968ded547c6b0ff&id=58e9aaac71&e=7941192948. There will be free food, a raffle, and the chance to network with life science technology vendors, so don't miss out!
-
-Check out the Facebook event page <a href='http://ucla.us2.list-manage1.com/track/click?u=49e06912f7968ded547c6b0ff&id=d3329db3f5&e=7941192948' target="_blank">HERE!</a> 
+The Biomedical Engineering Society at UCLA is hosting its Fall Science Vendor Expo on Wednesday, October 7 in CNSI. This event is for undergrad students, grad students, researchers, and professors who want to get the chance to meet with representatives from exclusive biotech companies focused in life science research. You will get to see new products that are on the market and can get samples or place orders for your research lab. The event is free and pre-registration can be done at  <a href='http://ucla.us2.list-manage1.com/track/click?u=49e06912f7968ded547c6b0ff&id=d3329db3f5&e=7941192948' target="_blank">HERE</a>. There will be free food, a raffle, and the chance to network with life science technology vendors, so don't miss out!
 
 =====================================================================
 
