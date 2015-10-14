@@ -15,7 +15,7 @@ newsletter-description:
 
 -- Run around South Campus, solve puzzles and win prizes! Ice-cream at the end of it...
 
--- For more information of to RSVP, <a href="goo.gl/JXWDp9" target="_blank">CLICK HERE!</a> ; To sign up as a volunteer, <a href="goo.gl/dfJC6C" target="_blank">CLICK HERE!</a> (free goodies)
+-- For more information of to RSVP, <a href="http://goo.gl/JXWDp9" target="_blank">CLICK HERE!</a> ; To sign up as a volunteer, <a href="http://goo.gl/dfJC6C" target="_blank">CLICK HERE!</a> (free goodies)
 
 <b>II. NSF-GRFP Essay Writing Workshops (Thu. 10/15, 12 - 2pm; Wed. 10/21, 11 - 1pm)</b>
 
@@ -33,13 +33,13 @@ newsletter-description:
 
 -- Connecting STEM graduate students with industry; limited space, light breakfast
 
--- <a href="goo.gl/Bx7ZfC">RSVP HERE!</a> Information on participating companies <a href="goo.gl/7yZwM3" target="_blank">HERE!</a>
+-- <a href="http://goo.gl/Bx7ZfC">RSVP HERE!</a> Information on participating companies <a href="http://goo.gl/7yZwM3" target="_blank">HERE!</a>
 
 <b>V. PhD Movie 2 Screening (Tue. 10/20, 5:30 - 8pm)</b>
 
 -- Back for a sequel @ Ackerman Grand Ballroom! Free snacks and drinks!
 
--- Limited seats! For RSVP/more information <a href="goo.gl/R31zlE" target="_blank">CLICK HERE!</a>
+-- Limited seats! For RSVP/more information <a href="http://goo.gl/R31zlE" target="_blank">CLICK HERE!</a>
 
 <b>VI. Grad Student Financial Workshop (Thu. 10/22, 6 - 7pm, Free food, @ BH Penthouse)</b>
 
