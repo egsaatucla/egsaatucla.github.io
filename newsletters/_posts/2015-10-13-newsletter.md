@@ -15,7 +15,7 @@ newsletter-description:
 
 -- Run around South Campus, solve puzzles and win prizes! Ice-cream at the end of it...
 
--- For more information of to RSVP, <a href="goo.gl/JXWDp9">CLICK HERE!</a> ; To sign up as a volunteer, <a href="goo.gl/dfJC6C">CLICK HERE!</a> (free goodies)
+-- For more information of to RSVP, <a href="goo.gl/JXWDp9" target="_blank">CLICK HERE!</a> ; To sign up as a volunteer, <a href="goo.gl/dfJC6C" target="_blank">CLICK HERE!</a> (free goodies)
 
 <b>II. NSF-GRFP Essay Writing Workshops (Thu. 10/15, 12 - 2pm; Wed. 10/21, 11 - 1pm)</b>
 
@@ -33,13 +33,13 @@ newsletter-description:
 
 -- Connecting STEM graduate students with industry; limited space, light breakfast
 
--- <a href="goo.gl/Bx7ZfC">RSVP HERE!</a> Information on participating companies <a href="goo.gl/7yZwM3">HERE!</a>
+-- <a href="goo.gl/Bx7ZfC">RSVP HERE!</a> Information on participating companies <a href="goo.gl/7yZwM3" target="_blank">HERE!</a>
 
 <b>V. PhD Movie 2 Screening (Tue. 10/20, 5:30 - 8pm)</b>
 
 -- Back for a sequel @ Ackerman Grand Ballroom! Free snacks and drinks!
 
--- Limited seats! For RSVP/more information <a href="goo.gl/R31zlE">CLICK HERE!</a>
+-- Limited seats! For RSVP/more information <a href="goo.gl/R31zlE" target="_blank">CLICK HERE!</a>
 
 <b>VI. Grad Student Financial Workshop (Thu. 10/22, 6 - 7pm, Free food, @ BH Penthouse)</b>
 
@@ -51,7 +51,7 @@ newsletter-description:
 
 -- A Halloween-costume (animal-themed, since Zoo) encouraged, Old LA Zoo hike!
 
--- For RSVP/more information <a href="goo.gl/jQhZfg">CLICK HERE!</a>
+-- For RSVP/more information <a href="goo.gl/jQhZfg" target="_blank">CLICK HERE!</a>
 
 <b>VIII. Student Entrepreneur Venture Competition Kickoff - Information Sessions</b>
 
@@ -63,7 +63,7 @@ newsletter-description:
 
 <b>Other news/events for eGrads:</b>
 
-<b>IX. Google Scholarships (varying deadlines, <a href="https://www.google.com/edu/scholarships/">SEE HERE</a></b>
+<b>IX. Google Scholarships (varying deadlines, <a href="https://www.google.com/edu/scholarships/" target="_blank">SEE HERE</a></b>
 
 -- Open to graduate and undergraduate students
 
@@ -75,7 +75,7 @@ newsletter-description:
 
 <b>XI. CV to Resume Transition Workshop (Wed. 10/28, 10 - 11:30am)</b>
 
--- For more information of to RSVP, <a href="http://uclagradprofdev.eventbrite.com">CLICK HERE</a> 
+-- For more information of to RSVP, <a href="http://uclagradprofdev.eventbrite.com" target="_blank">CLICK HERE</a> 
 
 =====================================================================
 
@@ -93,7 +93,7 @@ Armed only with a sheet of clues, here’s your chance to conquer all of UCLA So
 
 Quick, form teams of 2 to 4 (we can also help you group up if you have none team). Sign up ASAP for only 30 to 35 teams will be let in and you don’t want to miss out on this chance of a lifetime.
 
-<a href="https://docs.google.com/forms/d/12HmQkyCUnsUV9M4bYHcAjdudvGPg4gYO7aCNpfRGN2s/viewform">RSVP HERE!</a>
+<a href="https://docs.google.com/forms/d/12HmQkyCUnsUV9M4bYHcAjdudvGPg4gYO7aCNpfRGN2s/viewform" target="_blank">RSVP HERE!</a>
 
 Top winning teams will be rewarded UCLA Store Gift Cards. 
 
@@ -109,7 +109,7 @@ Basic tasks include: being around the pitstops and helping the team only if requ
 
 Volunteers are required to briefly meet on Thursday (time TBA), and will be rewarded eGSA shirts & first dibs on ice-cream!
 
-We will only be taking 8 volunteers for this event, so if you are interested, <a href="https://docs.google.com/forms/d/1wdjXmYfLfdGI2zeHFQbVc_dQPzSu1q4f16-ROAhzLaQ/viewform">RSVP HERE </a>ASAP!
+We will only be taking 8 volunteers for this event, so if you are interested, <a href="https://docs.google.com/forms/d/1wdjXmYfLfdGI2zeHFQbVc_dQPzSu1q4f16-ROAhzLaQ/viewform" target="_blank">RSVP HERE </a>ASAP!
 
 =====================================================================
 
@@ -171,7 +171,7 @@ Come join us for a free screening of the new movie "Piled Higher and Deeper: Sti
 
 Seating starts at 5:30, the screening will begin at 6:15.
 
-Meet current, future, or former grad students while enjoying free snacks and drinks! Seating is limited, so please <a href="https://www.eventbrite.com/e/phd-movie-2-screening-tickets-18918146686?mc_eid=09d80e48f4&mc_cid=4526c649e9 ">RSVP TODAY!</a>
+Meet current, future, or former grad students while enjoying free snacks and drinks! Seating is limited, so please <a href="https://www.eventbrite.com/e/phd-movie-2-screening-tickets-18918146686?mc_eid=09d80e48f4&mc_cid=4526c649e9" target="_blank">RSVP TODAY!</a>
 
 <i>This event is organized by the UCLA Graduate Society of Women Engineers (GradSWE), the UCLA Society of Women Engineers (SWE), the UCLA Engineering Graduate Student Association (eGSA), and Graduate Student Association (GSA).</i>
 
@@ -199,9 +199,9 @@ Join GradSWE for this easy, fun Halloween hike at the Old LA Zoo! The hike is a 
  
 As this hike takes place on Halloween, costumes are highly recommended (and animal-themed costumes are strongly encouraged)!
  
-As this is a short hike, we plan to go out to lunch following the hike. To read about the specifics about the hike, visit the Modern Hiker entry http://www.modernhiker.com/2012/09/10/hiking-griffith-park-bee-rock-and-the-old-l-a-zoo/?mc_cid=4526c649e9&mc_eid=09d80e48f4 
+As this is a short hike, we plan to go out to lunch following the hike. To read about the specifics about the hike, visit the Modern Hiker entry <a href="http://www.modernhiker.com/2012/09/10/hiking-griffith-park-bee-rock-and-the-old-l-a-zoo/?mc_cid=4526c649e9&mc_eid=09d80e48f4 " target="_blank">HERE!</a>
  
-We will carpool to the trailhead. Please <a href="http://gradswe-zoo-hike.eventbrite.com">RSVP HERE!</a> If you can give rides for other people, you will get reimbursed for gas.
+We will carpool to the trailhead. Please <a href="http://gradswe-zoo-hike.eventbrite.com" target="_blank">RSVP HERE!</a> If you can give rides for other people, you will get reimbursed for gas.
 
 =====================================================================
 
@@ -227,8 +227,8 @@ Please bring 2 copies of your CV to receive peer feedback.
 
 This event is open to UCLA Graduate Students and UCLA Postdoctoral Scholars.
  
-<a href="http://uclagradprofdev.eventbrite.com">RSVP HERE!</a>
+<a href="http://uclagradprofdev.eventbrite.com" target="_blank">RSVP HERE!</a>
  
-For questions, please send an email to <a href="mailto:ksherrer@career.ucla.edu">ksherrer@career.ucla.edu</a>
+For questions, please send an email to <a href="mailto:ksherrer@career.ucla.edu" target="_blank">ksherrer@career.ucla.edu</a>
 
 =====================================================================
