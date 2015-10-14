@@ -51,7 +51,7 @@ newsletter-description:
 
 -- A Halloween-costume (animal-themed, since Zoo) encouraged, Old LA Zoo hike!
 
--- For RSVP/more information <a href="goo.gl/jQhZfg" target="_blank">CLICK HERE!</a>
+-- For RSVP/more information <a href="http://goo.gl/jQhZfg" target="_blank">CLICK HERE!</a>
 
 <b>VIII. Student Entrepreneur Venture Competition Kickoff - Information Sessions</b>
 
