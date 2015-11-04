@@ -1,13 +1,13 @@
 ---
 layout:     	post-newsletter
-name:	Newsletter Week 5
-newsletter-date:	2015-10-26
+name:	Newsletter Week 6
+newsletter-date:	2015-11-03
 newsletter-time:	
 newsletter-description:	
 ---
 
 
-<b>Welcome to week 5! </b>
+<b>Welcome to week 6! </b>
 
 <b>Latest eGSA events:</b>
 
