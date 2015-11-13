@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Events"
-description: "Comming up events in eGSA."
+description: "Upcoming events with eGSA."
 header-img: "img/royce2.jpg"
 ---
 #Upcoming Events
