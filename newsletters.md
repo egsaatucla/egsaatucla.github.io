@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Newsletters"
-description: "Weekly eGSA newsletter --- Stay updated, join upcomming events!"
+description: "Weekly eGSA newsletter -- Stay updated, join upcoming events!"
 header-img: "img/royce2.jpg"
 ---
 #Weekly Newsletters
