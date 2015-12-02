@@ -26,7 +26,7 @@ title: "Officers"
 #Past Officers
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 {% for post in site.posts %}
-{% if post.post_type=="officer"}
+{% if post.category=="officer" %}
 {% unless post.active %}
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
