@@ -1,5 +1,6 @@
 ---
 layout:     	post
+officer:        true
 name:      		Chris Rose
 position: 		Professional Development
 hometown: 		Sacramento, CA
