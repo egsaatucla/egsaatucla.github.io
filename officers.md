@@ -16,7 +16,7 @@ title: "Officers"
 
 
 
-#Past Officers
+<h1>Past Officers</h1>
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 {% for post in site.posts %}
 {% if post.officer %}
