@@ -4,6 +4,7 @@ title: "Events"
 description: "Upcoming events with eGSA."
 header-img: "img/royce2.jpg"
 ---
+<!--
 #Upcoming Events
 <ul>
 {% for event in site.categories.events %}
@@ -15,6 +16,7 @@ header-img: "img/royce2.jpg"
 {% endfor %}
 </ul>
 <hr>
+-->
 
 #Staying updated with eGSA events
 * <b>Weekly emails</b>: you should already receive them when are enrolled via Courseweb. If not, please contact secretary@bruinegsa.org.

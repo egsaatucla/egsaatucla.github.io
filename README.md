@@ -1,5 +1,5 @@
 #eGSA @ UCLA Website
-This is the 2015 revamp of the eGSA website by [Jon Van Lew](http://jon.vanlew.net) so blame him if anything goes wrong. It is based on the hugely popular [clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll) theme. 
+This eGSA site was created by [Jon Van Lew](http://jon.vanlew.net). It is now currently maintained by [Johnny ho](https://github.com/johnny5550822). It is based on the hugely popular [clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll) theme. 
 
 ## Adding New Officers
 I tried to make it easier for future adding and removing of current officers -- but it's a little hacked because of Jekyll on GitHub being primarily targeted at blogs. So each officer is a "post" in the `_posts` directory. These are the steps to adding a new officer:
@@ -34,3 +34,6 @@ email: "ims@bruinegsa.org"
 active: false
 ---
 ```
+
+## Contact
+If you have any questions, feel free to contact us, johnny.ho@bruinegsa.org.
