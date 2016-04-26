@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-#eGSA Lounge
+<h1>eGSA Lounge</h1>
 * <i class="fa fa-building-o"></i> Located in Boelter Hall 2438 (South East corner of Boelter Hall)
 * The lounge is open to all members 24/7 unless reserved. If you'd like to reserve the lounge for a special occasion or event, <i class="fa fa-download"></i> [download request form to book the eGSA Lounge](https://grad.ucla.edu/asis/entsup/fellgrnt.htm)
 * The lounge is equipped with a security lock and can only be opened by entering your approved 10 digit department ID in the keypad. In addition, there are security cameras in the lounge to monitor and record all activities. If you do not yet have the access code to the lounge, you may request it with an email to the <a href="mailto:lounge@bruinegsa.org">lounge manager</a>.
