@@ -4,7 +4,7 @@ title: "Grad School FAQs"
 header-img: "img/royce2.jpg"
 ---
 
-<h1>Frequently asked questions by new engineering graduate students at UCLA</h1>
+<h2>Frequently asked questions by new engineering graduate students at UCLA</h2>
 <div class="accordion" id="accordion2">
   <div class="accordion-group">
     <div class="accordion-heading">
