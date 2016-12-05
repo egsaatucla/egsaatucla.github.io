@@ -6,7 +6,7 @@ position: 		Co-Vice President (Internal)
 hometown: 		Orange County, California
 alma_mater: 	Cal Poly, Pomona
 advisor: 		N/A
-header-img: 	"img/officers/yuxiang.jpg"
+header-img: 	""
 active: 		true
 email: 			
 department: 	Engineering Management
