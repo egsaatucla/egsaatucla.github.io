@@ -5,8 +5,7 @@ title: Resources
 
 <h1>eGSA Lounge</h1>
 * <i class="fa fa-building-o"></i> Located in Boelter Hall 2438 (South East corner of Boelter Hall)
-* The lounge is open to all members 24/7 unless reserved. If you'd like to reserve the lounge for a special occasion or event, <i class="fa fa-download"></i> [download request form to book the eGSA Lounge](https://grad.ucla.edu/asis/entsup/fellgrnt.htm)
-* The lounge is equipped with a security lock and can only be opened by entering your approved 10 digit department ID in the keypad. In addition, there are security cameras in the lounge to monitor and record all activities. If you do not yet have the access code to the lounge, you may request it with an email to the <a href="mailto:lounge@bruinegsa.org">lounge manager</a>.
+* The lounge is equipped with a security lock. In addition, there are security cameras in the lounge to monitor and record all activities. If you do not yet have the access code to the lounge, you may request it with an email to the <a href="mailto:lounge@bruinegsa.org">lounge manager</a>.
 * <b>Some features</b>: Separate study room, and recreation area (Wii, PS2, air hockey, foosball table)
 * <b>Lounge Rules</b>
    * Be responsible
@@ -22,7 +21,7 @@ title: Resources
 
 <h1>Co-sponsorship</h1>
 * eGSA is here to help fund your event if it benefits, or is open to, the engineering graduate student body as a whole.
-* <i class="fa fa-download"></i> <a href="https://grad.ucla.edu/asis/entsup/fellgrnt.htm"> Download the co-sponsorship request form</a>
+* contact <a href="mailto:vpinternal@bruinegsa.org">vice-president internal</a> for more information
 
 <h1>Maps and Transportation</h1>
 * <a href="http://maps.ucla.edu/campus/">Official campus map</a>: Interactive (and better than the old map), but still in beta
@@ -42,14 +41,14 @@ title: Resources
 * <a href="http://www.library.ucla.edu/sel">UCLA Science and Engineering Library</a>: (Most) Everything you need for research
 
 <h1>Sports and Health</h1>
-* <a href="http://www.imleagues.com/School/Intramural/Home.aspx?SchId=5c9ebf87cb564aa7a823da95b8d6ab16">UCLA Intramural Sports</a>: eGSA encourages engineering graduate students to participate in intramural sports as much as possible. Every quarter eGSA sponsors a handful of teams over a variety of sports. Visit the UCLA IMs website to see upcoming sports. <a href="mailto:im@bruinegsa.org">Email the IM manager</a> with any other questions.
+* <a href="https://www.recreation.ucla.edu/competitivesports#16810614-intramural-sports">UCLA Intramural Sports</a>: eGSA encourages engineering graduate students to participate in intramural sports as much as possible. Every quarter eGSA sponsors a handful of teams over a variety of sports. Visit the UCLA IMs website to see upcoming sports. <a href="mailto:im@bruinegsa.org">Email the IM manager</a> with any other questions.
 * <a href="http://www.recreation.ucla.edu/">UCLA Recreation</a>: The group that runs the Wooden Center, the Marina Aquatic Center, etc. – check out the <a href="http://www.recreation.ucla.edu/sitepdfs/recquarterly.pdf">Rec Quarterly</a> for a full list of activities
 * <a href="http://www.studenthealth.ucla.edu/">Student Health Services</a>: Information on your health insurance plan and the services available at Ashe Center
-* <a href="http://www.counseling.ucla.edu/">The Counseling Center</a>: These folks are here to help you with the stress of grad school
+* <a href="http://www.counseling.ucla.edu/">The Counseling Center</a>: These folks are here to help you with the stress of grad school.
 
 <h1>Events</h1>
 * <a href="events.html">eGSA Event Calendar</a>: Various events, including eGSA Town Hall and Socials. These events are a great way to get out of your lab, meet people who aren't engineers, and enjoy some free food and alcohol
-* <a href="http://www.tickets.ucla.edu/">UCLA Central Ticket Office</a>: Easy way to access campus and local events
+* <a href="http://www.tickets.ucla.edu/">UCLA Central Ticket Office</a>: Get subsidized movie tickets, tickets to attractions around LA, tickets to UCLA Basketball/Football/other athletics, and more.
 
 <h1>Other</h1>
 * <a href="http://gsa.asucla.ucla.edu/">Graduate Student Association</a>: GSA is the campus-wide grad student government – contact the eGSA Vice President External if you want to get involved!
