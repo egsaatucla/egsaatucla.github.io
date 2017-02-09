@@ -19,7 +19,7 @@ header-img: "img/royce2.jpg"
 -->
 
 <h1>Staying updated with eGSA events</h1>
-* <b>Weekly emails</b>: you should receive updates from eGSA as long as you're enrolled in school; check Opt-out settings under "About Me" page of <a href="https://my.engineering.ucla.edu" >myengineering.ucla.edu in case you are not receiving them.
+* <b>Weekly emails</b>: you should receive updates from eGSA as long as you're enrolled in school; check Opt-out settings under "About Me" page of <a href="https://my.engineering.ucla.edu" >myengineering.ucla.edu</a> in case you are not receiving them.
 * <a href="https://www.facebook.com/UCLA.eGSA?fref=ts" ><b>eGSA Facebook page</b></a>
 
 <h1>Regularly scheduled events</h1>
