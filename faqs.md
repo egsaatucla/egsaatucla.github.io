@@ -32,7 +32,7 @@ header-img: "img/royce2.jpg"
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
       <div class="accordion-inner">
-        <p>The eGSA lounge 2438 BH, and requires a key-code to enter. This code varies by department, and was distributed at the beginning of your time at UCLA, but you may reacquire it by emailing <a href="mailto:lounge@bruinegsa.org">the lounge manager</a>. For more information you can also view the <a href="resources.md">Resources page</a></p>
+        <p>The eGSA lounge 2438 BH, and requires a key-code to enter. This code varies by department, and was distributed at the beginning of your time at UCLA, but you may reacquire it by emailing <a href="mailto:lounge@bruinegsa.org">the lounge manager</a>. For more information you can also view the <a href="http://bruinegsa.org/resources/">Resources page</a></p>
       </div>
     </div>
   </div>
@@ -47,6 +47,7 @@ header-img: "img/royce2.jpg"
         <p>
             <ul><li><a href="http://gsrc.ucla.edu/">Graduate student resource center (GSRC)</a></li>
                 <li><a href="http://gsrc.ucla.edu/gwc/">Graduate student writing center (GSWC)</a></li>
+                <li><a href="http://www.career.ucla.edu/">Career Center</a></li>
             </ul>
         </p>
       </div>
@@ -60,7 +61,7 @@ header-img: "img/royce2.jpg"
     </div>
     <div id="collapseFour" class="accordion-body collapse">
       <div class="accordion-inner">
-        <p>The available fellowships and jobs at any given time are constantly in flux. For the most up-to-date information, including cancellations and changes, please register for the <a href="https://secure.career.ucla.edu/BruinViewLogin/Login.aspx">Career Center BruinView</a></p>
+        <p>The available fellowships and jobs at any given time are constantly in flux. For the most up-to-date information on jobs visit <a href="https://secure.career.ucla.edu/BruinViewLogin/Login.aspx">Career Center BruinView</a> For the most up-to-date information on fellowships visit the <a href="https://grad.ucla.edu/funding/">Grad Funding page</a>.</p>
       </div>
     </div>
   </div>
