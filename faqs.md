@@ -32,7 +32,7 @@ header-img: "img/royce2.jpg"
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
       <div class="accordion-inner">
-        <p>The eGSA lounge 2438 BH, and requires a key-code to enter. This code varies by department, and was distributed at the beginning of your time at UCLA, but you may reacquire it by emailing <a href="mailto:lounge@bruinegsa.org">the lounge manager</a>. For more information you can also view the <a href="http://bruinegsa.org/resources/">Resources page</a></p>
+        <p>The eGSA lounge 2438 BH, and requires a key-code to enter. This code varies by department, and was distributed at the beginning of your time at UCLA, but you may reacquire it by emailing <a href="mailto:lounge@bruinegsa.org">the lounge manager</a>. For more information you can also view the <a href="resources.md/">Resources page</a></p>
       </div>
     </div>
   </div>
