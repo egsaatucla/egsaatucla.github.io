@@ -18,8 +18,7 @@ title: "Officers"
 
 <h1>Past Officers</h1>
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-<h1>  2015-2016:</h1>
-<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+<h2> 2015-2016:</h2>
 {% for post in site.posts %}
 {% if post.officer %}
 {% unless post.active %}
