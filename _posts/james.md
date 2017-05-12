@@ -8,6 +8,7 @@ alma_mater: 	UC Berkeley
 advisor: 		
 header-img: 	"img/officers/james.jpg"
 active: 		false
+year:  2014
 email: 			
 department: 	Bioengineering
 ---
