@@ -2,7 +2,7 @@
 layout:     	post
 officer: true
 name:      	
-position: 	
+position: 	Officer
 hometown: 		
 alma_mater: 	
 advisor: 		
