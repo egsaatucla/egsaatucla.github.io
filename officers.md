@@ -7,8 +7,8 @@ title: "Officers"
 {% if post.active %}
 	<a href="{{ post.url | prepend: site.baseurl }}">
 		<div class="circle small pull-left" style="background-image: url('{{ site.url }}/{% if post.header-img %}{{ post.header-img }}{% else %}img/officers/blank.jpg{% endif %}')" >
+		<h3>post.position</h3>
 		</div>
-		<h3 class="post-title">{{ post.position }}</h3>
 	</a>
 {% endif %}
 {% endfor %}
