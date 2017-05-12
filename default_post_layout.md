@@ -7,7 +7,7 @@ hometown:
 alma_mater: 	
 advisor: 		
 header-img: 	"img/officers/blank.jpg"
-active: 		true
+active: 		false
 year:  2014
 email: 			
 department: 	
