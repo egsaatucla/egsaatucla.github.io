@@ -19,7 +19,7 @@ title: "Officers"
 <h1>Past Officers</h1>
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 <h2>2015-2016:</h2>
-<div class="col-lg-0 col-md-10 col-sm-0 col-xs-0">
+<div class="col-lg-0 col-md-2 col-sm-0 col-xs-0">
 {% for post in site.posts %}
 {% if post.year == 2015 %}
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -30,7 +30,7 @@ title: "Officers"
 </div>
 
 <h2>2014-2015:</h2>
-<div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
+<div class="col-lg-0 col-md-2 col-sm-0 col-xs-0">
 {% for post in site.posts %}
 {% if post.year == 2014 %}
     <a href="{{ post.url | prepend: site.baseurl }}">
