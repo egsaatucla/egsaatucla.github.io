@@ -30,3 +30,14 @@ title: "Officers"
 {% endif %}
 {% endfor %}
 </div>
+
+<h2>2014-2015:</h2>
+<div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
+{% for post in site.posts %}
+{% if post.year == 2014 %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
+    </a>
+{% endif %}
+{% endfor %}
+</div>
