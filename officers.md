@@ -21,12 +21,10 @@ title: "Officers"
 <h2>2015-2016:</h2>
 <div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
 {% for post in site.posts %}
-{% if post.officer %}
-{% unless post.active %}
+{% if post.year == 2015 %}
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
     </a>
-{% endunless %}
 {% endif %}
 {% endfor %}
 </div>
