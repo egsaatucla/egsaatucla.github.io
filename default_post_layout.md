@@ -7,6 +7,7 @@ alma_mater:
 advisor: 		
 header-img: 	"img/officers/blank.jpg"
 active: 		true
+year:
 email: 			
 department: 	
 ---
