@@ -1,5 +1,6 @@
 ---
 layout:     	post
+officer: true
 name:      	
 position: 	
 hometown: 		
