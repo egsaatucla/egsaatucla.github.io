@@ -9,7 +9,6 @@ title: "Officers"
 		<div class="circle small pull-left" style="background-image: url('{{ site.url }}/{% if post.header-img %}{{ post.header-img }}{% else %}img/officers/blank.jpg{% endif %}')" >
 		</div>
 	</a>
-	<h3>{{post.position}}</h3>
 {% endif %}
 {% endfor %}
 </div>
