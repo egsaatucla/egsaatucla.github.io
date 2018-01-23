@@ -27,7 +27,7 @@ $(function() {
             var message = $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
-            if (firstName.indexOf(' ') >= 0) {
+            if (firstName && firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
@@ -157,7 +157,8 @@ $('#name').focus(function() {
                     } else {
                         $form.removeClass("error");
                         if ($.isFunction(settings.options.submitSuccess)) {
-                            settings.options.submitSuccess($form, e);
+                            //settings.options.submitSuccess($form, e);
+                            1;
                         }
                     }
                 });
