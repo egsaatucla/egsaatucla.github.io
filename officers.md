@@ -17,8 +17,33 @@ title: "Officers"
 </div>
 <hr>
 
+
+
 <h1>Past Officers</h1>
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+<h2>2017-2018:</h2>
+<div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
+{% for post in site.posts %}
+{% if post.year == 2017 %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
+    </a>
+{% endif %}
+{% endfor %}
+</div>
+
+<h2>2016-2017:</h2>
+<div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
+{% for post in site.posts %}
+{% if post.year == 2016 %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
+    </a>
+{% endif %}
+{% endfor %}
+</div>
+
 <h2>2015-2016:</h2>
 <div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
 {% for post in site.posts %}
