@@ -50,3 +50,4 @@ header-img: "img/royce2.jpg"
 * <b>Engineering Social</b> (quarterly): enjoy free food and beer and meet other engineering MS/PhD students!
 * <b>Volunteering</b> (monthly): join in humanitarian work for an evening and meet other like-minded engineering graduate students interested in community service.
 
+<iframe src="https://calendar.google.com/calendar/embed?title=eGSA%20%26%20UCLA%20Events&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=g.ucla.edu_0u9vhqtinn33jos6p54kdv0l48%40group.calendar.google.com&amp;color=%23853104&amp;src=g.ucla.edu_8q0nef7m9u0uhbia52ktc38lic%40group.calendar.google.com&amp;color=%2329527A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
