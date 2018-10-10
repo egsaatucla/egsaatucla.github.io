@@ -8,8 +8,8 @@ title: "Officers"
 	<a href="{{ post.url | prepend: site.baseurl }}">
 		<div class="circle small pull-left" style="background-image: url('{{ site.url }}/{% if post.header-img %}{{ post.header-img }}{% else %}img/officers/blank.jpg{% endif %}')" >
             <br><br><br><br><br>
-            <h5 class="post-title" style="text-align:center">
-            {{ post.name }}</h5>
+            <h6 class="post-title" style="text-align:center">
+            {{ post.name }}</h6>
 		</div>
 	</a>
 {% endif %}
