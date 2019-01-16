@@ -23,3 +23,5 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 # port 
 port: 3333
 
+# Google Analytics
+google_analytics: UA-132563280-1
