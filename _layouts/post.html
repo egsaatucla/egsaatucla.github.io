@@ -23,7 +23,15 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="circle" style="background-image: url('{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}img/officers/blank.jpg{% endif %}')"></div>
+									{% if page.header-img %}
+									  {% if page.active == false %}
+											<div class="circle" style="background-image: url('{{ site.url }}/{{ page.header-img | replace: "img/officers", "img/officers/past" }}')"></div>
+										{% else %}
+											<div class="circle" style="background-image: url('{{ site.url }}/{{ page.header-img }}')"></div>
+										{% endif %}
+									{% else %}
+										<div class="circle" style="background-image: url('{{ site.url }}/img/officers/blank.jpg')"></div>
+								  {% endif %}
                 {% if page.hometown %}
                     <div><b class="subheading">Hometown</b>: {{ page.hometown }}</div>
                 {% endif %}
