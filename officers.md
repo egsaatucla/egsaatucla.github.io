@@ -10,8 +10,8 @@ title: "Officers"
             <br><br><br><br><br>
             <h6 class="post-title" style="text-align:center">
             {{ post.name }}</h6>
-            <h6 class="post-title" style="text-align:center">
-            {{ post.position }}</h6>
+            <!-- <h6 class="post-title" style="text-align:center">
+            {{ post.position }}</h6> -->
 		</div>
 	</a>
 {% endif %}
