@@ -2,13 +2,13 @@
 layout:     	post
 officer: 		true
 name:      		Rajashree Bhattacharya
-position: 		Lounge Manager
+position: 		Secretary
 hometown: 		San Jose, CA
 alma_mater: 	UC Berkeley
 advisor: 		Dwight Streit
 header-img: 	"img/officers/rajashree_bhattacharya.jpg"
-active: 		false
-year:  			2018
+active: 		true
+year:  			2019
 email: 			
 department: 	Materials Science and Engineering
 ---

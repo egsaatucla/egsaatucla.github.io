@@ -2,13 +2,13 @@
 layout:     	post
 officer: 		true
 name:      		Hannaneh Hojaiji
-position: 		Wellness Coordinator
+position: 		RISE Coordinator
 hometown: 		Los Angeles, CA
 alma_mater: 	UCLA
 advisor: 		Sam Emaminejad
 header-img: 	"img/officers/hannaneh_hojaiji.jpg"
-active: 		false
-year:  			2018
+active: 		true
+year:  			2019
 email: 			
 department: 	Electrical & Computer Engineering
 ---

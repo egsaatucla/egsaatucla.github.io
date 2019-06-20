@@ -10,6 +10,8 @@ title: "Officers"
             <br><br><br><br><br>
             <h6 class="post-title" style="text-align:center">
             {{ post.name }}</h6>
+            <h6 class="post-title" style="text-align:center">
+            {{ post.position }}</h6>
 		</div>
 	</a>
 {% endif %}
@@ -22,12 +24,23 @@ title: "Officers"
 <h1>Past Officers</h1>
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
+<h2>2018-2019:</h2>
+<div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
+{% for post in site.posts %}
+{% if post.year == 2018 %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h5 class="post-title">{{ post.name }} - {{ post.position }}</h5>
+    </a>
+{% endif %}
+{% endfor %}
+</div>
+
 <h2>2017-2018:</h2>
 <div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
 {% for post in site.posts %}
 {% if post.year == 2017 %}
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
+        <h5 class="post-title">{{ post.name }} - {{ post.position }}</h5>
     </a>
 {% endif %}
 {% endfor %}
@@ -38,7 +51,7 @@ title: "Officers"
 {% for post in site.posts %}
 {% if post.year == 2016 %}
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
+        <h5 class="post-title">{{ post.name }} - {{ post.position }}</h5>
     </a>
 {% endif %}
 {% endfor %}
@@ -49,7 +62,7 @@ title: "Officers"
 {% for post in site.posts %}
 {% if post.year == 2015 %}
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
+        <h5 class="post-title">{{ post.name }} - {{ post.position }}</h5>
     </a>
 {% endif %}
 {% endfor %}
@@ -60,7 +73,7 @@ title: "Officers"
 {% for post in site.posts %}
 {% if post.year == 2014 %}
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3 class="post-title">{{ post.name }} - {{ post.position }}</h3>
+        <h5 class="post-title">{{ post.name }} - {{ post.position }}</h5>
     </a>
 {% endif %}
 {% endfor %}

@@ -7,7 +7,7 @@ hometown: 		Chennai, Tamil Nadu,India
 alma_mater: 	Anna University (CEG)
 advisor: 		Mani Srivastava
 header-img: 	"img/officers/Vikranth.JPG"
-active: 		true
+active: 		false
 year:  			2018
 email: 			
 department: 	Electrical & Computer Engineering
