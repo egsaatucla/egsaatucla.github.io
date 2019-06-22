@@ -44,6 +44,9 @@ layout: default
                 {% if page.advisor %}
                     <div><b class="subheading">Advisor</b>: {{ page.advisor }}</div>
                 {% endif %}
+                {% if page.email %}
+                    <div><b class="subheading">Email</b>: {{ page.email }}</div>
+                {% endif %}
                 {{ content }}
             </div>
         </div>
