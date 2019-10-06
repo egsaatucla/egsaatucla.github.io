@@ -4,7 +4,7 @@ title: Resources
 ---
 
 <h1>eGSA Lounge</h1>
-* <i class="fa fa-building-o"></i> Located in Boelter Hall 3285 (South East corner of Boelter Hall)
+* <i class="fa fa-building-o"></i> Located in Boelter Hall 3285
 * The lounge is equipped with a security lock. In addition, there are security cameras in the lounge to monitor and record all activities. If you do not yet have the access code to the lounge, you may request it with an email to the <a href="mailto:lounge@bruinegsa.org">lounge manager</a>.
 * <b>Some features</b>: Separate study room, and recreation area (Wii, PS2, air hockey, foosball table)
 * <b>Lounge Rules</b>
