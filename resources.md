@@ -3,6 +3,37 @@ layout: page
 title: Resources
 ---
 
+<h1>Social Media</h1>
+* Follow <a href="https://www.facebook.com/UCLA.EGSA">UCLA EGSA</a> on Facebook
+* Follow other engineering graduate organizations to learn more about them:
+   * <a href="https://www.instagram.com/uclansbe/">National Society of Black Engineers</a>
+   * <a href="https://www.instagram.com/bgsa_ucla/">Black Graduate Student Association at UCLA</a>
+   * <a href="https://sites.google.com/view/eeri-seaosc-at-ucla/">EERI-SEAOSC at UCLA</a>
+   * <a href="https://www.facebook.com/uclagsa/">Graduate Student Association (GSA)</a>
+   * <a href="https://www.facebook.com/uclaecegaps/">Electrical & Computer Engineering Graduate and Postdoc Society (ECEGAPS)</a>
+   * <a href="https://www.facebook.com/gradsweatucla/">Graduate Student Committee of the Society of Women Engineers (GradSWE)</a>
+   * <a href="https://www.facebook.com/ucla.hlgsa/">UCLA Hispanic Latinx Graduate Students Association (HLGSA)</a>
+   * <a href="https://www.facebook.com/organizationforculturaldiversityinscience">The Organization for Cultural Diversity in Science (OCDS)</a>
+   * <a href="https://www.facebook.com/csgsaUCLA/">Computer Science Graduate Student Association (CSGSA)</a>
+   * <a href="https://www.facebook.com/igsaucla/">International Graduate Student Association (IGSA)</a>
+   * <a href="https://www.facebook.com/igsaucla/">Graduate Indian Student Association (GISA)</a>
+
+<h1>Social Groups</h1>
+* Join your Departmental Social Groups to connect with other students within your department:
+   * Bioengineering: <a href="https://www.facebook.com/groups/563826013984240/">UCLA Bioengineering Graduate Association (BGA) Facebook Group</a>
+   * Chemical & Biomolecular Engineering: help start a channel for your department!
+   * Civil & Environmental Engineering: help start a channel for your department!
+   * Computer Science: <a href="https://www.facebook.com/groups/uclagradcs/">UCLA Computer Science Graduate Student Facebook Group</a>
+   * Electrical & Computer Engineering (ECEGAPS): <a href="https://groups.google.com/a/lists.ucla.edu/d/forum/ece-social">[ece-social] Google Group</a>
+   * Materials Science & Engineering: help start a channel for your department!
+   * Mechanical & Aerospace Engineering: help start a channel for your department!
+* Join some of our other interest-specific social groups:
+   * <a href="https://groups.google.com/a/lists.ucla.edu/d/forum/boardgames/join">[boardgames] Google Group</a> (meeting virtually weekly -- organized by ECEGAPS & open to all students)
+   * <a href="https://groups.google.com/a/lists.ucla.edu/d/forum/engr-grad-book-club/join">[engr-grad-book-club] Google Group</a> (meeting virtually monthly -- organized by ECEGAPS & open to all students)
+* Join the <a href="https://uclagradswe.slack.com/join/shared_invite/zt-fjeakd5v-CWjJU1NgfseidZx~gsDf6Q?mc_cid=e74a93db90&mc_eid=6296d66d8c#/">GradSWE Slack Group</a> (open to all students!)
+   * Interested in helping/getting help, connecting, and socializing with your UCLA SEAS peers? The graduate student committee of Women Engineers (GradSWE) at UCLA has created a Slack group to do just that. The Slack group will be used to provide general updates regarding UCLA SEAS and GradSWE and has separate channels for each department, incoming students, and other interest groups to help you get connected with those you'd normally be in classrooms/labs/etc. with. It's free to join and easy to use!
+   * GradSWE advocates for women graduate engineers and provides resources, tools, and opportunities for professional development and networking. UCLA GradSWE’s mission is to support, inspire, and empower the current and future female engineering community to excel in all endeavors. To connect with GradSWE, you can <a href="https://ucla.us10.list-manage.com/subscribe?u=a80063c4a03f81adf54d5deeb&id=1ab160a9f1">sign up for our newsletter</a>, <a href="https://gradsweucla.wordpress.com/">find us on our website</a>, and find us on social media: Facebook - <a href="https://www.facebook.com/gradsweatucla/">UCLA Grad SWE</a>, Instagram - <a href="https://www.instagram.com/ucla_gradswe/">ucla_gradswe</a>.
+
 <h1>eGSA Lounge</h1>
 * <i class="fa fa-building-o"></i> Located in Boelter Hall 3285
 * The lounge is equipped with a security lock. In addition, there are security cameras in the lounge to monitor and record all activities. If you do not yet have the access code to the lounge, you may request it with an email to the <a href="mailto:lounge@bruinegsa.org">lounge manager</a>.
