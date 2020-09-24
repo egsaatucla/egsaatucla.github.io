@@ -24,6 +24,17 @@ title: "Officers"
 <h1>Past Officers</h1>
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
+<h2>2019-2020:</h2>
+<div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
+{% for post in site.posts %}
+{% if post.year == 2019 %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h5 class="post-title">{{ post.name }} - {{ post.position }}</h5>
+    </a>
+{% endif %}
+{% endfor %}
+</div>
+
 <h2>2018-2019:</h2>
 <div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
 {% for post in site.posts %}

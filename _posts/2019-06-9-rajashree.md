@@ -7,7 +7,7 @@ hometown: 		San Jose, CA
 alma_mater: 	UC Berkeley
 advisor: 		Dwight Streit
 header-img: 	"img/officers/rajashree_bhattacharya.jpg"
-active: 		true
+active: 		false
 year:  			2019
 email: 			
 department: 	Materials Science and Engineering
