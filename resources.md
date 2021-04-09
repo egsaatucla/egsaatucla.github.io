@@ -3,6 +3,9 @@ layout: page
 title: Resources
 ---
 
+<h1>Infographic</h1>
+* <a href="./UCLA_GSA_Graduate_Flowchart_Final32021.pdf">Use this infographic to find the resources you need</a>
+
 <h1>Social Media</h1>
 * Follow <a href="https://www.facebook.com/UCLA.EGSA">UCLA EGSA</a> on Facebook
 * Follow other engineering graduate organizations to learn more about them:
