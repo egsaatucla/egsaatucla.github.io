@@ -27,7 +27,7 @@ title: "Officers"
 <h2>2020-2021:</h2>
 <div class="col-lg-0 col-md-0 col-sm-0 col-xs-0">
 {% for post in site.posts %}
-{% if post.year == 2021 %}
+{% if post.year == 2020 %}
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h5 class="post-title">{{ post.name }} - {{ post.position }}</h5>
     </a>
