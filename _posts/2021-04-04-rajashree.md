@@ -7,7 +7,7 @@ hometown: 		San Jose, CA
 alma_mater: 	UC Berkeley
 advisor: 		Dwight Streit
 header-img: 	"img/officers/raj.png"
-active: 		true
+active: 		false
 year:  			2021
 email: 			rajashree.bhatta@bruinegsa.com
 department: 	Materials Science and Engineering
